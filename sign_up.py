@@ -1,1 +1,2 @@
 print("LEFT")
+print("RIGHT")
